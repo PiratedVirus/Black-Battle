@@ -117,6 +117,26 @@
           <a href="../loggedIn.php" style="padding-bottom: 15px;" >HOME</a>
             
           </div>
+          
+            <div class="container text-center">
+              <div class="row">
+                <div class="panel panel-info">
+                  <div class="panel-heading uppercase">Explore with more options</div>
+                  <div class="panel-body">
+                    <div class="col-sm-12 ">
+                      <script src="//platform.linkedin.com/in.js" type="text/javascript">extensions: AlumniFacet@//www.linkedin.com/edu/alumni-facet-extension-js</script>
+                      <script type="IN/AlumniFacet" data-linkedin-schoolid="210340"></script>
+
+                      <div class="li-alumni-widget"><a href="//www.linkedin.com/edu/government-college-of-engineering,-railway-station-road.-210340" target="_li">Visit Government College of Engineering, Railway Station Road. on LinkedIn</a> | <a href="//www.linkedin.com/edu/" target="_li">LinkedIn for Education</a></div>
+                    </div>
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+
+          
           <?php 
             include 'dbconnect.php';
 
